@@ -1,4 +1,4 @@
-# lambda_yaml_json_converter_without_packages
+# aws-codebuild-lambda-postman
 
 * This code converts input YAML to JSON
 * This repository contains the source code & automated tests
